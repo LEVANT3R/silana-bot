@@ -9,16 +9,16 @@ global.setting = {
  }
 
 global.owner = [
-['212717457920', 'Nour', true],
-['212605784394', 'silana', false],
+['212713890403', 'Nour', true],
+['212713890403', 'silana', false],
 ['', '', false]
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '212693227969',
+ nomerbot: '212713890403',
+ pairingNumber: '212713890403',
  nameown: 'Nour',
- nomerown: '212717457920',
+ nomerown: '212713890403',
  packname: 'sticker by ',
  author: 'Noureddine',
  namebot: 'ꜱɪʟᴀɴᴀ',
